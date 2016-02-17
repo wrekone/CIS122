@@ -18,4 +18,3 @@ cals = (g_carbs * 4) + (g_fats * 9) + (g_prot * 4)
 # output
 
 print("total calories for {} are {}".format(item_name, cals))
- 
