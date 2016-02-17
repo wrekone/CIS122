@@ -50,4 +50,3 @@ while cont.lower() == "y":
 # Output
 print()
 print("Your meal has {} items for a total of {} calories".format(item_cnt, meal_cals))
-
