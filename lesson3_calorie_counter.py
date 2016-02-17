@@ -1,4 +1,4 @@
-# Program:      Lesson 2 Calorie Counter
+# Program:      Lesson 3 Calorie Counter
 # Programmer:   wrekone
 # Date:         2016.01.09
 # Purpose:      The purpose of this program is to count the number of calories in a food item
